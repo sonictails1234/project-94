@@ -1,0 +1,13 @@
+body
+{
+    background: red;
+}
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
